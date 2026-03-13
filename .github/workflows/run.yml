@@ -24,4 +24,4 @@ jobs:
         pip install requests
 
     - name: Run Python file
-      run: python script.py
+      run: python cd_balance_engine.py
